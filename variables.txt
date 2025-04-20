@@ -2,8 +2,8 @@
 
 DATE=$(date +%F)
 
-name1=vasim
-name2=nazeer
+name1=$1
+name2=$2
 
 
 echo " the script is executed on: $DATE"
