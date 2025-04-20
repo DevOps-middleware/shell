@@ -4,5 +4,5 @@ echo "hi my name is : vasim"
 
 echo -e "good\tmorning"
 
-
+echo -e "vasim\nkhan"
 
