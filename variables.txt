@@ -5,10 +5,4 @@
 
 echo "my name is vasim"
 echo -e "vasim\tkhan"
-
-
-
-
-
-
-
+echo -e "nazeer\nshaik"
