@@ -1,12 +1,8 @@
 #!/bash/bash
 
+name1=vasim
+name2=nazeer
 
+echo "my name is $name1"
 
-
-echo "my name is vasim"
-echo -e "vasim\tkhan"
-echo -e "nazeer\nshaik"
-
-echo -e "\e[1;32m my name is vasim\e[0m" 
-
-pwd
+echo "my friend name is $name2"
