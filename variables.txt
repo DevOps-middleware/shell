@@ -1,8 +1,10 @@
 #!/bin/bash
 
-echo "hi my name is : vasim"
+name1=vasim
+name2=nazeer
 
-echo -e "good\tmorning"
+echo " my name is $name1"
 
-echo -e "vasim\nkhan"
+echo "my  friend name is $name2"
+
 
