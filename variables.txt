@@ -2,8 +2,8 @@
 
 
 
-echo -e "\e[31m my name is vasim"
+echo -e "\e[31m my name is vasim \e[0m"
 
-my friend name is nazeer
+echo " my friend name is nazeer"
 
 
