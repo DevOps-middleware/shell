@@ -2,9 +2,11 @@
 
 read -p " plese enter username : " name
 
-read -sp " please enter password : " password
-
 echo " username is : $name"
+
+
+
+read -sp " please enter password : " password
 
 echo " password is : $password"
 
