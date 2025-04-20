@@ -1,9 +1,13 @@
 #!/bin/bash
 
+read -p "plese eneter username : " username
+
+echo "my name is $username"
 
 
-echo -e "\e[1;31m my name is vasim \e[0m"
+read -sp "plese enter password : " password
 
-echo " my friend name is nazeer"
+echo "passworid is $password"
+
 
 
