@@ -1,13 +1,8 @@
 #!/bash/bash
 
-read -p " plese enter username : " name
+a=(10 20)
 
-echo " username is : $name"
-
-
-
-read -s -p "please enter password :" pass\n
-
-echo " password is : $pass"
+echo "value of ${a[$1]}"
+echo "value of ${a[$2]}"
 
 
