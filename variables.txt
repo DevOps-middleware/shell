@@ -4,6 +4,6 @@
 
 echo -e "\e[31m my name is vasim"
 
-
+my friend name is nazeer
 
 
