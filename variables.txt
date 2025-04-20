@@ -2,3 +2,7 @@
 
 echo "hi my name is : vasim"
 
+echo -e "good\tmorning"
+
+
+
