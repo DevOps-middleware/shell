@@ -2,7 +2,7 @@
 
 
 
-echo -e "\e[31m my name is vasim \e[0m"
+echo -e "\e[1;31m my name is vasim \e[0m"
 
 echo " my friend name is nazeer"
 
