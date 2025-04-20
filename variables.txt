@@ -6,8 +6,8 @@ echo " username is : $name"
 
 
 
-read -sp " please enter password : " password
+read -sp "please enter password :" pass
 
-echo " password is : $password"
+echo " password is : $pass"
 
 
