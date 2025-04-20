@@ -6,3 +6,7 @@
 echo "my name is vasim"
 echo -e "vasim\tkhan"
 echo -e "nazeer\nshaik"
+
+echo -e "\e[32m my name is vasim\e[0m" 
+
+pwd
