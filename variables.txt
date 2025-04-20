@@ -2,8 +2,9 @@
 
 DATE=$(date +%F)
 
-name1=$1
-name2=$2
+
+read -p "my name is :" name1
+read -p "my fried name is :" name2
 
 
 echo " the script is executed on: $DATE"
