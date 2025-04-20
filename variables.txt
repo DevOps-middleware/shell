@@ -1,17 +1,9 @@
 #!/bin/bash
 
-DATE=$(date +%F)
 
 
-read -p "my name is :" name1
-read -p "my fried name is :" name2
+echo -e "\e[31m my name is vasim"
 
 
-echo " the script is executed on: $DATE"
-
-
-echo " my name is $name1"
-
-echo "my  friend name is $name2"
 
 
