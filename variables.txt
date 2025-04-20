@@ -1,13 +1,19 @@
 #!/bin/bash
 
-read -p "plese eneter username : " username
 
-echo "my name is $username"
+scriptname=$0
+number1=$1
+number2=$2
+totalvalues=$*
+sumofvalues=$#
 
 
-read -sp "plese enter password : " password
 
-echo "passworid is $password"
+echo "script name is $scriptname
+echo "vlaue of 1 is $1"
+echo "value of 2 is $2"
+echo "total number of values is $totalvalues"
 
+echo :sum of values is $sum of values"
 
 
