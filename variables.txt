@@ -1,8 +1,11 @@
 #!/bash/bash
 
-name1=vasim
-name2=nazeer
+read -p " plese enter username : " name
 
-echo "my name is $name1"
+read -sp " please enter password : " password
 
-echo "my friend name is $name2"
+echo " username is : $name"
+
+echo " password is : $password"
+
+
