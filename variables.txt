@@ -1,7 +1,13 @@
 #!/bin/bash
 
+DATE=$(date +%F)
+
 name1=vasim
 name2=nazeer
+
+
+echo " the script is executed on: $DATE"
+
 
 echo " my name is $name1"
 
