@@ -1,7 +1,10 @@
 #!/bash/bash
 
 
+
+
 echo "my name is vasim"
+echo -e "vasim\tkhan"
 
 
 
