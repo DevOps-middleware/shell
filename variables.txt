@@ -1,8 +1,10 @@
-#!/bash/bash
+#!/bin/bash
 
-a=(10 20)
+name1=vasim
+name2=nazeer
 
-echo "value of ${a[0]}"
-echo "value of ${a[1]}"
+
+
+
 
 
